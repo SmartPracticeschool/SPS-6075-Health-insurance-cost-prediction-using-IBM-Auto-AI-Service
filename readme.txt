@@ -1,0 +1,1 @@
+https://node-red-ftcpd-2020-10-09.eu-gb.mybluemix.net/ui/#!/0?socketid=okiyjUVVMQF9Z_HZAAAA
